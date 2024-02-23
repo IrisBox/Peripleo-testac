@@ -23,12 +23,11 @@
          }
       ],
       "links":[
-      	{"type":"subjectOf",
+      	{
       	"identifier":"https://cudl.lib.cam.ac.uk/view/MS-CIMUSEUMS-COLEM-00136-A/1",
       	"label":"Old Windmill, East Bergholt (COLEM:136A)"
       	},
       	{
-      	"type":"subjectOf",
       	"identifier":"https://cudl.lib.cam.ac.uk/view/MS-CIMUSEUMS-IPSMG-R-01977-00083/1",
       	"label":"The Old Horse or 'Gainsborough's Horse' (IPSMG:R.1977.83)"
       	}
