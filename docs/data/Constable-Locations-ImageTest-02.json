@@ -22,8 +22,15 @@
             "accreditation":"Fitzwilliam Museum, Cambridge"
          }
       ],
-      "links":[
+      "relations":[
       	{
+      		"relationType":"http://vocab.getty.edu/page/aat/300160390",
+      		"label":"National Trust",
+      		"relationTo":"www.nationaltrust.org.uk"
+      	}
+      ],
+      "links":[
+      	{"type":"subjectOf",
       	"identifier":"https://cudl.lib.cam.ac.uk/view/MS-CIMUSEUMS-COLEM-00136-A/1",
       	"label":"Old Windmill, East Bergholt (COLEM:136A)",
       	"types":
@@ -32,9 +39,18 @@
       			"label":"artifact",
       			"identifier":"http://vocab.getty.edu/page/aat/300117127"
       			}
+      		],
+      	{"type":"subjectOf",
+      	"identifier":"https://cudl.lib.cam.ac.uk/view/MS-CIMUSEUMS-IPSMG-R-01977-00083/1",
+      	"label":"The Old Horse or 'Gainsborough's Horse' (IPSMG:R.1977.83)",
+      	"types":
+      		[
+      			{
+      			"label":"artifact",
+      			"identifier":"http://vocab.getty.edu/page/aat/300117127"
+      			}
       		]
       	}
-      ]
    },
    {
       "@id":"https://w3id.org/Constable-Mapping-Locations-AA/8c3842e0-47c3-49f7-9b5e-832be98aea29",
