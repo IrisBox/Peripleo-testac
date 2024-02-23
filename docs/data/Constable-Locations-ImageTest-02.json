@@ -21,6 +21,7 @@
             {
                "@id":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001.jp2/full/1000,/0/default.jpg",
                "title":"Spring (P.232-1954 (1)b)",
+               "thumbnail":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001.jp2/3192,2000,4880,1526/500,/0/default.jpg",
                "licence":"https://creativecommons.org/licenses/by-nc/3.0/",
                "accreditation":"Fitzwilliam Museum, Cambridge"
             }
