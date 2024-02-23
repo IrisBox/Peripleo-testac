@@ -13,14 +13,12 @@
             51.972689
          ]
       },
-      "depictions":[
-         {
+      "depictions":{
             "@id":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001.jp2/full/1000,/0/default.jpg",
             "title":"Spring (P.232-1954 (1)b)",
             "licence":"https://creativecommons.org/licenses/by-nc/3.0/",
             "accreditation":"Fitzwilliam Museum, Cambridge"
          }
-      ]
    },
    {
       "@id":"https://w3id.org/Constable-Mapping-Locations-AA/8c3842e0-47c3-49f7-9b5e-832be98aea29",
@@ -36,14 +34,12 @@
             51.968505
          ]
       },
-      "depictions":[
-         {
+      "depictions":{
             "@id":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00002-B-000-00001.jp2/full/1000,/0/default.jpg",
             "title":"Summer Evening (P.232-1954 (2)b)",
             "licence":"https://creativecommons.org/licenses/by-nc/3.0/",
             "accreditation":"Fitzwilliam Museum, Cambridge"
          }
-      ]
    },
    {
       "@id":"https://w3id.org/Constable-Mapping-Locations-AA/cd69d92d-1d36-468f-8c1e-d3e40891fd9f",
@@ -59,14 +55,12 @@
             51.971274
          ]
       },
-      "depictions":[
-         {
+      "depictions":{
             "@id":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00001-C-000-00001.jp2/full/1000,/0/default.jpg",
             "title":"Autumnal sunset (P.232-1954 (1)c)",
             "licence":"https://creativecommons.org/licenses/by-nc/3.0/",
             "accreditation":"Fitzwilliam Museum, Cambridge"
          }
-      ]
    },
    {
       "indexing":{
