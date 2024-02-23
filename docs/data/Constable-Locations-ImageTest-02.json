@@ -1,1 +1,88 @@
-[{"@id":"https://w3id.org/Constable-Mapping-Locations-AA/56d35960-a608-47f7-aac0-519fc8d2b384","type":"Feature","properties":{"title":"Spring","url":"https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-B/1"},"geometry":{"type":"Point","coordinates":[1.031056,51.972689]},"depictions":[{"@id":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001.jp2/full/1000,/0/default.jpg","title":"Spring (P.232-1954 (1)b)","thumbnail":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001.jp2/3192,2000,4880,1526/500,/0/default.jpg","licence":"https://creativecommons.org/licenses/by-nc/3.0/","accreditation":"Fitzwilliam Museum, Cambridge"}]},{"@id":"https://w3id.org/Constable-Mapping-Locations-AA/8c3842e0-47c3-49f7-9b5e-832be98aea29","type":"Feature","properties":{"title":"Summer Evening","url":"https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00002-B/1"},"geometry":{"type":"Point","coordinates":[1.011968,51.968505]},"depictions":[{"@id":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00002-B-000-00001.jp2/full/1000,/0/default.jpg","title":"Summer Evening (P.232-1954 (2)b)","thumbnail":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00002-B-000-00001.jp2/750,2300,4880,1526/500,/0/default.jpg","licence":"https://creativecommons.org/licenses/by-nc/3.0/","accreditation":"Fitzwilliam Museum, Cambridge"}]},{"@id":"https://w3id.org/Constable-Mapping-Locations-AA/cd69d92d-1d36-468f-8c1e-d3e40891fd9f","type":"Feature","properties":{"title":"Autumnal Sunset","url":"https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-C/1"},"geometry":{"type":"Point","coordinates":[1.008309,51.971274]},"depictions":[{"@id":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00001-C-000-00001.jp2/full/1000,/0/default.jpg","title":"Autumnal sunset (P.232-1954 (1)c)","thumbnail":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00001-C-000-00001.jp2/1200,2600,4880,1526/500,/0/default.jpg","licence":"https://creativecommons.org/licenses/by-nc/3.0/","accreditation":"Fitzwilliam Museum, Cambridge"}]},{"indexing":{"@type":"Dataset","name":"Constable-Mapping-Locations-AA","description":"","license":"https://creativecommons.org/licenses/by/4.0/","identifier":"https://w3id.org/Constable-Mapping-Locations-AA","temporalCoverage":"1066/2022","spatialCoverage":{"@type":"GeoShape","box":"0.580101 0.00149 60.355 9.78667","geo":{"@type":"GeoShape","box":"51.968505 1.008309 51.972689 1.031056"}}}}]
+{
+   "@id":"https://w3id.org/Constable-Mapping-Locations-AA",
+   "type":"FeatureCollection",
+   "@context":"https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+   "features":[
+      {
+         "@id":"https://w3id.org/Constable-Mapping-Locations-AA/763ac9e1-1a78-46fc-a16a-e184f3d1a2df",
+         "type":"Feature",
+         "properties":{
+            "title":"Spring",
+            "url":"https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-B/1"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               1.031056,
+               51.972689
+            ]
+         },
+         "depictions":[
+            {
+               "@id":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00001-B-000-00001.jp2/full/1000,/0/default.jpg",
+               "title":"Spring (P.232-1954 (1)b)",
+               "licence":"https://creativecommons.org/licenses/by-nc/3.0/",
+               "accreditation":"Fitzwilliam Museum, Cambridge"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/Constable-Mapping-Locations-AA/0e028e42-eb72-4236-a588-722f69467533",
+         "type":"Feature",
+         "properties":{
+            "title":"Summer Evening",
+            "url":"https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00002-B/1"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               1.011968,
+               51.968505
+            ]
+         },
+         "depictions":[
+            {
+               "@id":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00002-B-000-00001.jp2/full/1000,/0/default.jpg",
+               "title":"Summer Evening (P.232-1954 (2)b)"
+            }
+         ]
+      },
+      {
+         "@id":"https://w3id.org/Constable-Mapping-Locations-AA/d3087fb8-a36e-4411-93bf-3bb1ca59d342",
+         "type":"Feature",
+         "properties":{
+            "title":"Autumnal Sunset",
+            "url":"https://cudl.lib.cam.ac.uk/view/PR-FITZWILLIAM-P-00232-01954-00001-C/1"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               1.008309,
+               51.971274
+            ]
+         },
+         "depictions":[
+            {
+               "@id":"https://images.lib.cam.ac.uk/iiif/PR-FITZWILLIAM-P-00232-01954-00001-C-000-00001.jp2/full/1000,/0/default.jpg",
+               "title":"Autumnal sunset (P.232-1954 (1)c)"
+            }
+         ]
+      }
+   ],
+   "indexing":{
+      "@type":"Dataset",
+      "name":"Constable-Mapping-Locations-AA",
+      "description":"",
+      "license":"https://creativecommons.org/licenses/by/4.0/",
+      "identifier":"https://w3id.org/Constable-Mapping-Locations-AA",
+      "temporalCoverage":"1066/2022",
+      "spatialCoverage":{
+         "@type":"GeoShape",
+         "box":"0.580101 0.00149 60.355 9.78667",
+         "geo":{
+            "@type":"GeoShape",
+            "box":"51.968505 1.008309 51.972689 1.031056"
+         }
+      }
+   }
+}
