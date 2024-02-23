@@ -22,13 +22,6 @@
             "accreditation":"Fitzwilliam Museum, Cambridge"
          }
       ],
-      "relations":[
-      	{
-      		"relationType":"http://vocab.getty.edu/page/aat/300160390",
-      		"label":"National Trust",
-      		"relationTo":"www.nationaltrust.org.uk"
-      	}
-      ],
       "links":[
       	{"type":"subjectOf",
       	"identifier":"https://cudl.lib.cam.ac.uk/view/MS-CIMUSEUMS-COLEM-00136-A/1",
@@ -41,6 +34,7 @@
       			}
       		],
       	}
+      ]
    },
    {
       "@id":"https://w3id.org/Constable-Mapping-Locations-AA/8c3842e0-47c3-49f7-9b5e-832be98aea29",
